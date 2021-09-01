@@ -20,6 +20,7 @@
   width: 433px;
   height: 287px;
   background-image: none;
+  animation-duration: 1000ms;
   margin: -540px auto 0 59px;
 }
 
@@ -27,16 +28,19 @@
   width: 445px;
   height: 287px;
   background-image: none;
+  animation-duration: 1000ms;
   margin: -307px auto 0 32px;
 }
 
 .u-section-1 .u-image-1 {
   width: 432px;
   height: 276px;
+  animation-duration: 1000ms;
   margin: -287px auto 0 32px;
 }
 
 .u-section-1 .u-text-1 {
+  animation-duration: 1000ms;
   margin: 43px 648px 0 32px;
 }
 
