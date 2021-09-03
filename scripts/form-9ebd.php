@@ -25,7 +25,7 @@ $form = array(
     'order' => 2,
     'type' => 'email',
     'label' => 'email',
-    'required' => true,
+    'required' => false,
     'errors' => array(
     'required' => 'Field \'email\' is required.'
     )

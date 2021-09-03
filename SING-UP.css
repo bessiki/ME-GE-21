@@ -17,25 +17,25 @@
 }
 
 .u-section-1 .u-label-1 {
-  font-style: italic;
-  text-transform: uppercase;
-  font-weight: 700;
-  text-decoration: underline !important;
+  font-weight: normal;
+  font-style: normal;
+  text-transform: none;
+  text-decoration: none solid rgb(17, 17, 17);
 }
 
 .u-section-1 .u-input-1 {
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .u-section-1 .u-label-2 {
-  font-style: italic;
-  text-transform: uppercase;
-  font-weight: 700;
-  text-decoration: underline !important;
+  font-weight: normal;
+  font-style: normal;
+  text-transform: none;
+  text-decoration: none solid rgb(17, 17, 17);
 }
 
 .u-section-1 .u-input-2 {
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .u-section-1 .u-form-group-3 {
@@ -43,14 +43,14 @@
 }
 
 .u-section-1 .u-label-3 {
-  font-style: italic;
-  text-transform: uppercase;
-  font-weight: 700;
-  text-decoration: underline !important;
+  font-weight: normal;
+  font-style: normal;
+  text-transform: none;
+  text-decoration: none solid rgb(17, 17, 17);
 }
 
 .u-section-1 .u-input-3 {
-  text-transform: uppercase;
+  text-transform: none;
 }
 
 .u-section-1 .u-btn-2 {

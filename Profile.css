@@ -1,0 +1,70 @@
+.u-section-1 {
+  background-image: url("images/dssdd-min.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 582px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  width: 525px;
+  margin: 37px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 525px;
+  font-size: 1.875rem;
+  line-height: 1.2;
+  margin: 31px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 158px;
+  height: 158px;
+  object-position: 50% 0%;
+  background-image: url("images/89516238.png");
+  background-position: 50% 50%;
+  margin: 39px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.25rem;
+  width: 320px;
+  margin: 47px auto 37px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 480px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 368px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 276px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 174px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+    font-size: 3.4375rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+    font-size: 1.5rem;
+  }
+}
