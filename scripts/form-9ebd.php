@@ -16,7 +16,7 @@ $form = array(
     'order' => 1,
     'type' => 'string',
     'label' => 'name',
-    'required' => true,
+    'required' => false,
     'errors' => array(
     'required' => 'Field \'name\' is required.'
     )
@@ -34,7 +34,7 @@ $form = array(
     'order' => 3,
     'type' => 'string',
     'label' => 'text',
-    'required' => true,
+    'required' => false,
     'errors' => array(
     'required' => 'Field \'text\' is required.'
     )
